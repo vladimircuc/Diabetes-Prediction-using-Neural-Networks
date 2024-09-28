@@ -3,7 +3,7 @@
   <h1 align="center">Diabetes-Prediction-using-Neural-Networks</h1>
 
   <p align="center">
-This project represents a thorough analysis of two neural network modules, built using PyTorch and Keras, to predict diabetes based on a dataset from Kaggle. A comprehensive review of the code and prediction results can be found in the PDF attached to this repository.  </p>
+This project developed neural network models using PyTorch and Keras to predict diabetes from a Kaggle dataset. Trained on 2,460 instances and tested on 308, the models used health indicators like glucose, BMI, and insulin to provide binary predictions of diabetes presence. A comprehensive review of the code and prediction results can be found in the PDF attached to this repository.  </p>
 </p>
 
 ## Table of Contents
